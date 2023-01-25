@@ -1,4 +1,7 @@
 ### Hi, I'm Paul 👋
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=paul-gailey.paul-gailey)](https://github.com/paul-gailey) [![GitHub followers](https://img.shields.io/github/followers/paul-gailey.svg?style=social&label=Follow)](https://github.com/paul-gailey?tab=followers)
+
+I'm formally trained as an Electronics Engineer but throughout my education have slowly found myself gaining a stronger passion for Data Science, Machine Learning and Artificial Intelligence. I'm passionate about using my skills for net positive good in the world. My most notable project to date involve
 
 - ***Currently***: MSc Student at King's College London studying Data Science
 - ***Previously***: BEng Student at Newcastle University studing Electrical Electronics Engineering
