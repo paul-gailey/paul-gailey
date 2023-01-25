@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm currently a MSc Student at King's College London studying Data Science
+I'm currently a MSc Student at King's College London studying Data Science
 
 
 <!--
