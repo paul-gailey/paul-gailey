@@ -1,5 +1,7 @@
-### Hi there 👋
-I'm currently a MSc Student at King's College London studying Data Science
+### Hi, I'm Paul 👋
+
+- ***Currently***: MSc Student at King's College London studying Data Science
+- ***Previously***: BEng Student at Newcastle University studing Electrical Electronics Engineering
 
 
 <!--
