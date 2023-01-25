@@ -1,4 +1,6 @@
 ### Hi there 👋
+# I'm currently a MSc Student at King's College London studying Data Science
+
 
 <!--
 **paul-gailey/paul-gailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
