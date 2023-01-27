@@ -8,13 +8,15 @@ I'm formally trained as an Electronics Engineer but throughout my education have
 <p>- <i>Currently</i>: MSc Student at King's College London studying Data Science</p>
 <p>- <i>Previously</i>: BEng Student at Newcastle University studing Electrical Electronics Engineering</p>
 
-<h3>Current Courses</h3>
-<p>- Network Data Analysis</p>
-<p>- Data Visualisation</p>
-<p>- Data Mining</p>
 
 <h3>Research Title</h3>
 <i>Predicting future crime demand for London - where will future demand come from?</i>
+
+<h3>Research Areas of Interest</h3>
+<p>- Computer Vision</p>
+<p>- Audio Processing</p>
+<p>- Network Data</p>
+<p>- Data Mining</p>
 
 <h2>📫 How to reach me:</h2>
 
