@@ -15,6 +15,7 @@ I'm formally trained as an Electronics Engineer but throughout my education have
 <h3>Research Areas of Interest</h3>
 <p>- Computer Vision</p>
 <p>- Audio Processing</p>
+<p>- NLP</p>
 <p>- Network Data</p>
 <p>- Data Mining</p>
 
