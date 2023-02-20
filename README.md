@@ -11,10 +11,10 @@ I'm formally trained as an Electronics Engineer but throughout my education have
 
 <h3>Research Title</h3>
 <i>Predicting future crime demand for London - where will future demand come from?</i>
-<h4>Technologies Used:</h4>
-<p>- Support Vector Machines</p>
-<p>- ML for Classification</p>
-<p>- NLP</p>
+<h4><i>Technologies Used:</i></h4>
+<p>-- Support Vector Machines</p>
+<p>-- ML for Classification</p>
+<p>-- NLP</p>
 
 <h3>Research Areas of Interest</h3>
 <p>- Computer Vision</p>
