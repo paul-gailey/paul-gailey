@@ -4,9 +4,9 @@
 
 I'm formally trained as an Electronics Engineer but throughout my education have slowly found myself gaining a stronger passion for Data Science, Machine Learning and Artificial Intelligence. I'm passionate about using my skills for net positive good in the world.
 
-<h2>🎓 My Education</h2>
-<p>- <i>Currently</i>: MSc Student at King's College London studying Data Science</p>
-<p>- <i>Previously</i>: BEng Student at Newcastle University studing Electrical Electronics Engineering</p>
+<h2>🎓 Education</h2>
+<p>- MSc Student at King's College London studying Data Science</p>
+<p>- BEng Student at Newcastle University studing Electrical Electronics Engineering</p>
 
 
 <h3>Research Title</h3>
@@ -18,7 +18,7 @@ I'm formally trained as an Electronics Engineer but throughout my education have
 
 <h3>Areas of Interest</h3>
 <p>- Computer Vision</p>
-<p>- Audio Processing</p>
+<p>- Blockchain Technologies</p>
 <p>- NLP</p>
 <p>- Network Data</p>
 <p>- Data Mining</p>
