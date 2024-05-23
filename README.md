@@ -2,14 +2,14 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=paul-gailey.paul-gailey)](https://github.com/paul-gailey) [![GitHub followers](https://img.shields.io/github/followers/paul-gailey.svg?style=social&label=Follow)](https://github.com/paul-gailey?tab=followers)
 
-I'm formally trained as an Electronics Engineer but over time have developed a passion for Data Science, Machine Learning and AI.
+I'm formally trained as an Electrical & Electronics Engineer but over time have developed a passion for Data Science, Machine Learning and AI.
 
 <h2>🎓 Education</h2>
 <p>- MSc Data Science & AI - King's College London</p>
 <p>- BEng Electrical Electronics Engineering - Newcastle University</p>
 
 
-<h3>Research Title</h3>
+<h3>Research Papers</h3>
 <i>Predicting future crime demand for London - where will future demand come from?</i>
 <h4><i>Technologies Used:</i></h4>
 <p>-- Support Vector Machines</p>
