@@ -28,7 +28,8 @@
 - Data Mining
 
 ## 💻 Familiar Technologies
-- **Languages:** Python, GoLang, C++
+- **Languages:** Python, GoLang, C++, SQL, Gremlin, GraphQL
+- **Databases:** MongoDB, CosmosDB, Relational Databases
 - **Cloud:** Microsoft Azure, AWS
 - **Tools:** Kubernetes, Docker, Kafka
 - **Frameworks/Libraries:** FastAPI, Pandas, NumPy
