@@ -1,8 +1,9 @@
 <h2>Hi, I'm Paul 👋</h2>
+<h4>Currently - Software/Data Engineer + Analyst for Armadillo Analytics and Data-IS.</h4>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=paul-gailey.paul-gailey)](https://github.com/paul-gailey) [![GitHub followers](https://img.shields.io/github/followers/paul-gailey.svg?style=social&label=Follow)](https://github.com/paul-gailey?tab=followers)
 
-I'm formally trained as an Electrical & Electronics Engineer but over time have developed a passion for Data Science, Machine Learning and AI.
+<p>I'm formally trained as an Electrical & Electronics Engineer and Data Science. Interested in all things Tech, AI, and Finance.</p>
 
 <h2>🎓 Education</h2>
 <p>- MSc Data Science & AI - King's College London</p>
@@ -10,13 +11,14 @@ I'm formally trained as an Electrical & Electronics Engineer but over time have 
 
 
 <h3>Research Papers</h3>
-<i>Predicting future crime demand for London - where will future demand come from?</i>
-<i>Determination of Weight of Livestock using Machine Learning & Image Segmentation</i>
+<p><i>Predicting future crime demand for London - where will future demand come from?</i></p>
+<p><i>Determination of Weight of Livestock using Machine Learning & Image Segmentation.</i></p>
 
 <h4><i>Technologies Used:</i></h4>
 <p>- Support Vector Machines</p>
 <p>- ML for Classification</p>
 <p>- NLP</p>
+<p>- OpenCV</p>
 
 <h3>Areas of Interest</h3>
 <p>- Blockchain Technologies</p>
@@ -25,15 +27,10 @@ I'm formally trained as an Electrical & Electronics Engineer but over time have 
 <p>- Data Mining</p>
 
 <h3>Familiar Technologies</h3>
-<p>- Python</p>
-<p>- GoLang</p>
-<p>- C++</p>
-<p>- Microsoft Azure</p>
-<p>- AWS</p>
-<p>- Kubernetes</p>
-<p>- Docker</p>
-<p>- Kafka</p>
-<p>- FastAPI</p>
+<p>- Languages: Python, GoLang, C++</p>
+<p>- Cloud: Microsoft Azure, AWS</p>
+<p>- Tools: Kubernetes, Docker, Kafka</p>
+<p>- Frameworks/Libraries: FastAPI, Pandas, NumPy</p>
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:paul.gailey@icloud.com">![paul.gailey@icloud.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/paul-gailey/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
