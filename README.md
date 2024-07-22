@@ -11,18 +11,29 @@ I'm formally trained as an Electrical & Electronics Engineer but over time have 
 
 <h3>Research Papers</h3>
 <i>Predicting future crime demand for London - where will future demand come from?</i>
+<i>Determination of Weight of Livestock using Machine Learning & Image Segmentation</i>
+
 <h4><i>Technologies Used:</i></h4>
-<p>-- Support Vector Machines</p>
-<p>-- ML for Classification</p>
-<p>-- NLP</p>
+<p>- Support Vector Machines</p>
+<p>- ML for Classification</p>
+<p>- NLP</p>
 
 <h3>Areas of Interest</h3>
-<p>- Computer Vision</p>
 <p>- Blockchain Technologies</p>
-<p>- NLP</p>
+<p>- High Frequency Trading</p>
 <p>- Network Data</p>
 <p>- Data Mining</p>
 
+<h3>Familiar Technologies</h3>
+<p>- Python</p>
+<p>- GoLang</p>
+<p>- C++</p>
+<p>- Microsoft Azure</p>
+<p>- AWS</p>
+<p>- Kubernetes</p>
+<p>- Docker</p>
+<p>- Kafka</p>
+<p>- FastAPI</p>
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:paul.gailey@icloud.com">![paul.gailey@icloud.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/paul-gailey/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
