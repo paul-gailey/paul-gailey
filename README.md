@@ -31,7 +31,7 @@
 - **Languages:** Python, GoLang, C++, SQL, Gremlin, GraphQL
 - **Databases:** MongoDB, CosmosDB, Relational Databases
 - **Cloud:** Microsoft Azure, AWS
-- **Tools:** Kubernetes, Docker, Kafka
+- **Tools:** Kubernetes, Docker, Kafka, Postman
 - **Frameworks/Libraries:** FastAPI, Pandas, NumPy
 
 ## 📫 How to reach me:
