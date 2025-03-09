@@ -2,10 +2,15 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=paul-gailey.paul-gailey)](https://github.com/paul-gailey)
 [![GitHub followers](https://img.shields.io/github/followers/paul-gailey.svg?style=social&label=Follow)](https://github.com/paul-gailey?tab=followers)
 ## Currently
-**Software/Data Engineer + Analyst for Armadillo Analytics and Data-IS.**
+**Forward Deployed Engineer @ Palantir**
 
 - Formally trained as an Electrical & Electronics Engineer and Data Scientist. 
-- Interested in all things Tech, AI, and Finance.
+- Interested in all things Tech, AI, and Data.
+  
+#### Previously
+
+- Software Engineer @ Armadillo Analytics
+- Data Engineer + Analyst @ Data-IS
 
 ## 🎓 Education
 - **MSc Data Science & AI** - King's College London
